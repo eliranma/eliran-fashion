@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/eliran-fashion/precache-manifest.a3bb71f1b17675b269e683a326c0e954.js"
+  "/eliran-fashion/precache-manifest.5515bd7868ad7b7b0b2efc9a670b824c.js"
 );
 
 self.addEventListener('message', (event) => {
