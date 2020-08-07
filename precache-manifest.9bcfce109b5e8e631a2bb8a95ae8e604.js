@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86cf4e16a63dd5c645c7c81904e8e358",
+    "revision": "4e3b7a0337b388a54c29f5d1619cb5e8",
     "url": "/eliran-fashion/index.html"
   },
   {
-    "revision": "ea003c855de37a6368f0",
-    "url": "/eliran-fashion/static/css/main.51af2a25.chunk.css"
+    "revision": "d31425eb9f26d8db239b",
+    "url": "/eliran-fashion/static/css/main.94860b23.chunk.css"
   },
   {
-    "revision": "c358d94d27af7c236dea",
-    "url": "/eliran-fashion/static/js/2.df31d677.chunk.js"
+    "revision": "71e7e85c17783e9091e4",
+    "url": "/eliran-fashion/static/js/2.517868d1.chunk.js"
   },
   {
     "revision": "d0b13a04dd0dc4c851ad16fad1cc6f51",
-    "url": "/eliran-fashion/static/js/2.df31d677.chunk.js.LICENSE.txt"
+    "url": "/eliran-fashion/static/js/2.517868d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ea003c855de37a6368f0",
-    "url": "/eliran-fashion/static/js/main.99295278.chunk.js"
+    "revision": "d31425eb9f26d8db239b",
+    "url": "/eliran-fashion/static/js/main.622acc35.chunk.js"
   },
   {
     "revision": "ac64dc84483f48b29a6e",
