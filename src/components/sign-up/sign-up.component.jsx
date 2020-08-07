@@ -35,7 +35,7 @@ class SignUp extends React.Component{
             });
         
         }   catch (error){
-            console.error(error);
+            console.log(error);
         }
     };
 
@@ -56,7 +56,7 @@ class SignUp extends React.Component{
                     name='displayName'
                     value={displayName}
                     onChange={this.handleChange}
-                    label='Display Name'
+                    label='Name'
                     required />
                      <FormInput
                     type='email'

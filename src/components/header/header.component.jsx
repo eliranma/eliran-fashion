@@ -6,7 +6,7 @@ import {auth} from '../../firebase/firebase.util';
 
 const Header = ({currentUser}) => (
     <div className='header'>
-        <Link className='logo-container' to='/'>
+        <Link className='logo-container' to={process.env.PUBLIC_URL + '/'}>
         <Logo className='logo' />
         </Link>
         <div className='options'>
@@ -14,7 +14,7 @@ const Header = ({currentUser}) => (
             {   currentUser ?
            ( <div className='option' onClick={()=> auth.signOut()}>Sign Out</div>)
             :
-            (<Link className='option' to= '/sign-in-up'>Sign In</Link>)
+            (<Link className='option' to= {process.env.PUBLIC_URL +  '/sign-in-up'}>Sign In</Link>)
             }
         </div>
     </div>
