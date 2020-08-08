@@ -5,12 +5,13 @@
   height: 350px;
   align-items: center;
   overflow: hidden;
+  
   &:hover{
     cursor:pointer;
   
     & .image {
-      transform: scale(1.1);
-      transition: 6s cubic-bezier(0.25, 0.45, 0.45, 0.95);
+      transform: scale(1.05);
+      transition: 2s cubic-bezier(0.25, 0.45, 0.45, 0.95);
       
     }
   }
@@ -22,6 +23,7 @@
     background-size: cover;
     background-position: center;
     margin-bottom: 5px;
+    
   }
 
   .collection-footer {
@@ -37,7 +39,7 @@
     }
 
     .price {
-      width: 10%;
+      width: 20%;
     
     }
   }
