@@ -5,7 +5,7 @@ import {connect} from 'react-redux'
 import {ReactComponent as Logo} from '../../assets/suit.svg';
 import {auth} from '../../firebase/firebase.util';
 import CartIcon from '../cart-icon/cart-icon.component';
-import Cart from '../cart-dropdown/cart-dropdown.component';
+import CartDropdown from '../cart-dropdown/cart-dropdown.component';
 
 const Header = ({currentUser, hidden}) => (
     <div className='header'>
@@ -22,7 +22,7 @@ const Header = ({currentUser, hidden}) => (
             }
             <CartIcon  />
         </div>
-       {hidden ? null : <Cart />}
+       {hidden ? null : <CartDropdown />}
     </div>
 );
 const mapStateToProps = ({user: {currentUser}, cart: {hidden}}) => ({
