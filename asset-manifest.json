@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/eliran-fashion/static/css/main.587618a5.chunk.css",
-    "main.js": "/eliran-fashion/static/js/main.03f9244d.chunk.js",
-    "main.js.map": "/eliran-fashion/static/js/main.03f9244d.chunk.js.map",
+    "main.css": "/eliran-fashion/static/css/main.69a3ef40.chunk.css",
+    "main.js": "/eliran-fashion/static/js/main.3e10baa1.chunk.js",
+    "main.js.map": "/eliran-fashion/static/js/main.3e10baa1.chunk.js.map",
     "runtime-main.js": "/eliran-fashion/static/js/runtime-main.f804da87.js",
     "runtime-main.js.map": "/eliran-fashion/static/js/runtime-main.f804da87.js.map",
-    "static/js/2.8f022f35.chunk.js": "/eliran-fashion/static/js/2.8f022f35.chunk.js",
-    "static/js/2.8f022f35.chunk.js.map": "/eliran-fashion/static/js/2.8f022f35.chunk.js.map",
+    "static/js/2.e80ae34c.chunk.js": "/eliran-fashion/static/js/2.e80ae34c.chunk.js",
+    "static/js/2.e80ae34c.chunk.js.map": "/eliran-fashion/static/js/2.e80ae34c.chunk.js.map",
     "index.html": "/eliran-fashion/index.html",
-    "precache-manifest.476b9629cff6ff9f28d4ba52cf55424a.js": "/eliran-fashion/precache-manifest.476b9629cff6ff9f28d4ba52cf55424a.js",
+    "precache-manifest.ec6e63b3f1072734be18f783989df350.js": "/eliran-fashion/precache-manifest.ec6e63b3f1072734be18f783989df350.js",
     "service-worker.js": "/eliran-fashion/service-worker.js",
-    "static/css/main.587618a5.chunk.css.map": "/eliran-fashion/static/css/main.587618a5.chunk.css.map",
-    "static/js/2.8f022f35.chunk.js.LICENSE.txt": "/eliran-fashion/static/js/2.8f022f35.chunk.js.LICENSE.txt",
+    "static/css/main.69a3ef40.chunk.css.map": "/eliran-fashion/static/css/main.69a3ef40.chunk.css.map",
+    "static/js/2.e80ae34c.chunk.js.LICENSE.txt": "/eliran-fashion/static/js/2.e80ae34c.chunk.js.LICENSE.txt",
     "static/media/shopping-bag.30f07071.svg": "/eliran-fashion/static/media/shopping-bag.30f07071.svg",
     "static/media/suit.0bd4b331.svg": "/eliran-fashion/static/media/suit.0bd4b331.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f804da87.js",
-    "static/js/2.8f022f35.chunk.js",
-    "static/css/main.587618a5.chunk.css",
-    "static/js/main.03f9244d.chunk.js"
+    "static/js/2.e80ae34c.chunk.js",
+    "static/css/main.69a3ef40.chunk.css",
+    "static/js/main.3e10baa1.chunk.js"
   ]
 }
