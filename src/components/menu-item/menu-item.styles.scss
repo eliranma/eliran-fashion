@@ -68,3 +68,13 @@
   }
 }
 
+@media (max-width: 800px) {
+  .menu-item  {
+    min-width: 50vw;
+    flex-direction: column;
+    &.large {
+      height: 35vh;
+    }
+
+  }
+}
