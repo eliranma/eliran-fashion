@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0e4fd702ac3731a8223571b90dad435",
+    "revision": "60d0758718434ef16e4ef8b58fa3fe3d",
     "url": "/eliran-fashion/index.html"
   },
   {
-    "revision": "2b0984a898431dc99333",
-    "url": "/eliran-fashion/static/css/main.9b786482.chunk.css"
+    "revision": "a7fad2c5f0dbb0a6fd69",
+    "url": "/eliran-fashion/static/css/main.1bcfe162.chunk.css"
   },
   {
     "revision": "79121e0703f3359173e0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eliran-fashion/static/js/2.a4d2f93a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2b0984a898431dc99333",
-    "url": "/eliran-fashion/static/js/main.3bc85cfd.chunk.js"
+    "revision": "a7fad2c5f0dbb0a6fd69",
+    "url": "/eliran-fashion/static/js/main.ce7e78c6.chunk.js"
   },
   {
     "revision": "ac64dc84483f48b29a6e",

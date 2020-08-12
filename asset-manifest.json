@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/eliran-fashion/static/css/main.9b786482.chunk.css",
-    "main.js": "/eliran-fashion/static/js/main.3bc85cfd.chunk.js",
-    "main.js.map": "/eliran-fashion/static/js/main.3bc85cfd.chunk.js.map",
+    "main.css": "/eliran-fashion/static/css/main.1bcfe162.chunk.css",
+    "main.js": "/eliran-fashion/static/js/main.ce7e78c6.chunk.js",
+    "main.js.map": "/eliran-fashion/static/js/main.ce7e78c6.chunk.js.map",
     "runtime-main.js": "/eliran-fashion/static/js/runtime-main.f804da87.js",
     "runtime-main.js.map": "/eliran-fashion/static/js/runtime-main.f804da87.js.map",
     "static/js/2.a4d2f93a.chunk.js": "/eliran-fashion/static/js/2.a4d2f93a.chunk.js",
     "static/js/2.a4d2f93a.chunk.js.map": "/eliran-fashion/static/js/2.a4d2f93a.chunk.js.map",
     "index.html": "/eliran-fashion/index.html",
-    "precache-manifest.7f766e883280ee8d87a2c142a0a0b36e.js": "/eliran-fashion/precache-manifest.7f766e883280ee8d87a2c142a0a0b36e.js",
+    "precache-manifest.eca3d189644abed4e10b6796c2f42411.js": "/eliran-fashion/precache-manifest.eca3d189644abed4e10b6796c2f42411.js",
     "service-worker.js": "/eliran-fashion/service-worker.js",
-    "static/css/main.9b786482.chunk.css.map": "/eliran-fashion/static/css/main.9b786482.chunk.css.map",
+    "static/css/main.1bcfe162.chunk.css.map": "/eliran-fashion/static/css/main.1bcfe162.chunk.css.map",
     "static/js/2.a4d2f93a.chunk.js.LICENSE.txt": "/eliran-fashion/static/js/2.a4d2f93a.chunk.js.LICENSE.txt",
     "static/media/shopping-bag.30f07071.svg": "/eliran-fashion/static/media/shopping-bag.30f07071.svg",
     "static/media/suit.0bd4b331.svg": "/eliran-fashion/static/media/suit.0bd4b331.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f804da87.js",
     "static/js/2.a4d2f93a.chunk.js",
-    "static/css/main.9b786482.chunk.css",
-    "static/js/main.3bc85cfd.chunk.js"
+    "static/css/main.1bcfe162.chunk.css",
+    "static/js/main.ce7e78c6.chunk.js"
   ]
 }
