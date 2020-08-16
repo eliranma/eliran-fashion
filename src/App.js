@@ -15,7 +15,6 @@ import {createStructuredSelector} from 'reselect';
 import Checkout from './pages/checkout/checkout.component';
 
 
-
 class App extends React.Component {
   unsubscribeFromAuth = null;
   
@@ -56,7 +55,8 @@ class App extends React.Component {
   );}
 }
 const mapStateToProps = createStructuredSelector({
-  currentUser: selectCurrentUser
+  currentUser: selectCurrentUser,
+  
 });
 const mapDispatchToProps = dispatch =>({
   setCurrentUser: user => dispatch(setCurrentUser(user))
