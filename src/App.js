@@ -17,7 +17,7 @@ import Checkout from './pages/checkout/checkout.component';
 
 class App extends React.Component {
   unsubscribeFromAuth = null;
-  
+
 
   componentDidMount(){
     const {setCurrentUser} = this.props;
@@ -33,7 +33,7 @@ class App extends React.Component {
         });
       }
       setCurrentUser(userAuth);
-    }); 
+    });
   }
   componentWillUnmount(){
     this.unsubscribeFromAuth();
@@ -46,8 +46,8 @@ class App extends React.Component {
       <Route exact path='/' component={HomePage} />
       <Route path='/shop' component={ShopPage} />
       <Route path='/checkout' component={Checkout} />
-      <Route  exact path='/sign-in-up' 
-              render={()=>this.props.currentUser ? 
+      <Route  exact path='/sign-in-up'
+              render={()=>this.props.currentUser ?
               (<Redirect to='/' />):
               (<SignInUpPage />) } />
       </Switch>
@@ -56,7 +56,7 @@ class App extends React.Component {
 }
 const mapStateToProps = createStructuredSelector({
   currentUser: selectCurrentUser,
-  
+
 });
 const mapDispatchToProps = dispatch =>({
   setCurrentUser: user => dispatch(setCurrentUser(user))
